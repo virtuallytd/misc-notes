@@ -1,0 +1,3 @@
+brew install smartmontools
+
+smartctl /dev/diskN -a
